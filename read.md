@@ -3,4 +3,5 @@ test4
 fork2
 
 dev1,master1
-dev2
+
+dev2, mas2
