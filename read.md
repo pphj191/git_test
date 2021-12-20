@@ -6,4 +6,5 @@ dev1,master1
 
 dev2, mas2
 
-dev2_remote
+dev2_remote, dev2_local
+
